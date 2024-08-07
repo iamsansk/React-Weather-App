@@ -29,11 +29,8 @@ To get started with the Weather App, follow these steps:
 
 ## Usage
 
-1. **Run the Development Server**
-
-   \`\`\`sh
+1. **Run the Development Server** - 
    npm run dev
-   \`\`\`
 
    The app will be available at http://localhost:3000.
 
