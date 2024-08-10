@@ -13,16 +13,27 @@ This is a Weather App built with React and Vite. The app allows users to search 
 
 To get started with the Weather App, follow these steps:
 
-1. **Clone the Repository** - 
-   git clone https://github.com/iamsansk/your-repository-name.git
+### 1. Clone the Repository
 
-2. **Navigate to the Project Directory** - 
-   cd your-repository-name
+```bash
+git clone https://github.com/your-username/React-Weather-App.git
+cd React-Weather-App
+```
 
-3. **Install Dependencies** - 
-   npm install
+### 2. Install Dependencies
 
-4. **Add API Key**
+```bash
+npm install
+```
+
+### 3. Run the Application
+
+```bash
+npm start
+```
+
+
+### 4. **Add API Key**
 
    Create a `.env` file in the root directory of the project and add your OpenWeather API key: - 
    VITE_OPENWEATHER_API_KEY=your-api-key-here
