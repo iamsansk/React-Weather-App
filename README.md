@@ -16,7 +16,7 @@ To get started with the Weather App, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/React-Weather-App.git
+git clone https://github.com/iamsansk/React-Weather-App.git
 cd React-Weather-App
 ```
 
